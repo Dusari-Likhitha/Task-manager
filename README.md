@@ -57,23 +57,3 @@ python app.py
 
 📌 Open your browser and go to:  
 http://127.0.0.1:5000
-
----
-
-## 📸 Screenshots
-
-> _(Optional)_ You can upload screenshots to GitHub and insert them here later if needed.
-
----
-
-## 🙋‍♀️ Author
-
-**Dusari Likhitha**  
-💡 Computer Science Engineering, 2025  
-🌐 GitHub: [@Dusariikhitha](https://github.com/Dusariikhitha)
-
----
-
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
